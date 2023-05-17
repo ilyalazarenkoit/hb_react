@@ -1,0 +1,26 @@
+.pills_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  padding-top: 20%;
+}
+
+.pills_link {
+  display: block;
+  width: 60px;
+  height: 200px;
+  transition: transform 0.3s ease-in-out;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+}
+.pills_link:hover,
+.pills_link:focus {
+  transform: translateY(-10%);
+}
+
+.pills_image {
+  width: 60px;
+  height: 200px;
+}

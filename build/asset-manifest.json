@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/happy_birthday/static/css/main.b6b90fb6.css",
+    "main.js": "/happy_birthday/static/js/main.135e4999.js",
+    "static/media/else.mp4": "/happy_birthday/static/media/else.8f2fed97eb1db7c0142a.mp4",
+    "static/media/happybirthday.webm": "/happy_birthday/static/media/happybirthday.d9ac528fcdefd544e303.webm",
+    "static/media/morpheus_monologue.mp4": "/happy_birthday/static/media/morpheus_monologue.c05536b03259ad80b0c7.mp4",
+    "static/media/синяя прост.png": "/happy_birthday/static/media/синяя прост.aa7a15b411c29c5ff357.png",
+    "static/media/красная прост.png": "/happy_birthday/static/media/красная прост.92ea07eee50a75ff79aa.png",
+    "index.html": "/happy_birthday/index.html",
+    "main.b6b90fb6.css.map": "/happy_birthday/static/css/main.b6b90fb6.css.map",
+    "main.135e4999.js.map": "/happy_birthday/static/js/main.135e4999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b90fb6.css",
+    "static/js/main.135e4999.js"
+  ]
+}

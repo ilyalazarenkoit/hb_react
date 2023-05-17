@@ -1,0 +1,47 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.text {
+  color: green;
+  font-weight: 700;
+}
+
+.input {
+  border-color: green;
+  background-color: black;
+  font-weight: 900;
+  width: 90vh;
+  height: 30px;
+  padding-left: 2%;
+  color: green;
+}
+
+input:hover,
+input:focus,
+input:active {
+  border-color: green;
+  outline: 0;
+  outline-offset: 0;
+}
+
+.buttonSubmit {
+  cursor: pointer;
+  color: green;
+  width: 80px;
+  height: 30px;
+  border-color: green;
+  background-color: black;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+}

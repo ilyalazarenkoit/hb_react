@@ -1,0 +1,18 @@
+.chat_Page {
+  position: relative;
+  overflow: hidden;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+.button {
+  cursor: pointer;
+  color: green;
+  width: 150px;
+  height: 30px;
+  border-color: green;
+  background-color: black;
+  font-weight: 700;
+  margin-left: 30px;
+  margin-top: 20px;
+}
