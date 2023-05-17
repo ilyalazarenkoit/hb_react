@@ -22,7 +22,7 @@ export const ChatPage = () => {
   useEffect(() => {
     async function fetchData() {
       const response = await axios.get(
-        "https://happy-birthday-semen.onrender.com/api"
+        "https://happy-birthday-kqtr.onrender.com/api"
       );
 
       const OS = response.data.model[1];
